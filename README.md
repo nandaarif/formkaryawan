@@ -11,6 +11,7 @@ Aplikasi Formulir Karyawan Berbasis Web dapat membantu perusahaan dalam mengelol
 # Tech Stack
 
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 Requirement
 - PHP 8.2
 
